@@ -31,7 +31,7 @@ from matplotlib.font_manager import FontProperties
 CLIENT_ID = "122aba7e3e3f13a"
 PATH = 'report2.png'
 gettime = "08:00" #先定義一個初始值
-
+#
 app = Flask(__name__)
 
 line_bot_api = LineBotApi("rA4c99ztAvij6tW6HId9zkoMHnyHmSi0E5+fI9zpKBVCmPSzJQMKoYxEwDocI03OvWomMnloLp8/40rNFdCQkm4f6v1kte5s1+76wS+9kQ/4vzey+VrrJk2wzErS2bl61CjdiqWQpss4rDqJbgrOyQdB04t89/1O/w1cDnyilFU=")
